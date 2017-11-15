@@ -17,7 +17,7 @@ The cluster will use WeaveNet as the CNI provider.
 * The default Linux user account is `ketadmin`
 
 # Setup
-* 2 Master nodes (load-balanced behind a dedicated load balancer).
+* 2 Master nodes (load-balancer behind a dedicated load balancer).
 * 3 Etcd node
 * 2 Worker nodes
 
